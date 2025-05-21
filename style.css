@@ -13,12 +13,11 @@ body{
   cursor: pointer;
 }
 
-
-
 .gallery img{
   width: 100%;
   height: auto;
   border-radius: 0.25rem;
+  aspect-ratio: 1 / 1;
 }
 
 .post{ 
